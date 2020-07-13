@@ -17,7 +17,8 @@
       <pubDate>Sat, 11 Jul 2020 20:30:13 +0100</pubDate>
       
       <guid>https://christianjank.github.io/posts/test-post/</guid>
-      <description>Some content on this page.</description>
+      <description>Some content on this page.
+ public class HighlightTest { public static void main(String args...) { System.out.println(&amp;#34;WoW&amp;#34;); } } </description>
     </item>
     
   </channel>
